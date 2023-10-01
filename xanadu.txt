@@ -1,0 +1,4 @@
+This program works by first reading the first line of the file into a string.
+ Then, it replaces all instances of the character 'e' in the string with an empty string. 
+ Finally, it subtracts the length of the modified string from the length of the original 
+ string to get the number of times the character 'e' appears in the file.
